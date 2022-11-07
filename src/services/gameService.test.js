@@ -2,6 +2,8 @@ import * as gameService from "./gameService"
 
 //ajout commentaire de test git
 
+// Commentaire Remi <3
+
 describe("Game service", () => {
   test("should put camels from hand to herd", () => {
 
